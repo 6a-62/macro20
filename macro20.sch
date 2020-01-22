@@ -166,8 +166,6 @@ Wire Wire Line
 Wire Wire Line
 	6800 3900 6300 3900
 Wire Wire Line
-	5650 2800 7050 2800
-Wire Wire Line
 	5850 2900 5850 2600
 Connection ~ 5850 2900
 Wire Wire Line
@@ -186,4 +184,6 @@ F 3 "~" H 6150 3900 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	6000 3900 5650 3900
+Text GLabel 7050 2800 0    50   UnSpc ~ 0
+VCC
 $EndSCHEMATC
